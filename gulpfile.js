@@ -10,7 +10,7 @@ gulp.task("css", () => {
 });
 
 gulp.task("watch", () => {
-  watch("./client/src/index.js", () => {
+  watch("./client/public/style.css", () => {
     gulp.start("css");
   });
 });
