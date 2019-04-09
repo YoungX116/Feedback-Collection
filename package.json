@@ -27,6 +27,7 @@
     "lodash": "^4.17.10",
     "mongoose": "^5.2.12",
     "nodemon": "^1.18.4",
+    "normalize.css": "^8.0.1",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^1.0.0",
     "path-parser": "^4.2.0",
@@ -40,6 +41,7 @@
     "gulp-postcss": "^8.0.0",
     "gulp-watch": "^5.0.1",
     "postcss": "^7.0.14",
+    "postcss-import": "^12.0.1",
     "postcss-nested": "^4.1.2",
     "postcss-simple-vars": "^5.0.2"
   }
